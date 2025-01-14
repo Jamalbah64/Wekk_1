@@ -1,0 +1,6 @@
+@MyCookBookApi_HostAddress = http://localhost:5105
+
+GET http://localhost:5105/api/recipe
+Accept: application/json
+
+###
